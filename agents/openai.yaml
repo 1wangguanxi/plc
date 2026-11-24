@@ -1,0 +1,4 @@
+interface:
+  display_name: "PLC自动写作"
+  short_description: "依据题目、I/O表、梯形图和演示视频生成并验收PLC论文"
+  default_prompt: "Use $plczidongxiezuo to create a complete PLC thesis from my title, I/O table, ladder diagram, and demonstration video."
